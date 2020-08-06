@@ -4,6 +4,8 @@ public class Teste {
 
     private String newVariavel;
 
+    private String teste2;
+
 }
 
 
