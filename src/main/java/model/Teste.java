@@ -1,3 +1,5 @@
+package model;
+
 public class Teste {
 
     private String teste;
